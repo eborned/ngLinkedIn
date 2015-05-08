@@ -6,7 +6,7 @@
  *
  * @author  Roman Alexeev <roman@boket.to>
  * @date    April 21, 2014
- * @version 0.1.2
+ * @version 0.1.5
  * @license MIT
  */
 'use strict';
