@@ -18,7 +18,8 @@ angular.module('ngLinkedIn', [])
             authorize: false,
             lang: 'en_US',
             scope: 'r_basicprofile',
-            credentials_cookie: false
+            credentials_cookie: false,
+            credentials_cookie_crc: false
         };
 
         this.set = function(property, value) {
